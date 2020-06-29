@@ -8,7 +8,7 @@ Mon Jun 29 08:21:25 UTC 2020--><server>
 <feature>mpHealth-1.0</feature>
     </featureManager>
 <httpEndpoint host="*" httpPort="9080" httpsPort="9443" id="defaultHttpEndpoint"/>
-<authData id="websphereNode01/db2inst1" password="???" user="db2inst1"/>
+<authData id="websphereNode01/db2inst1" password="db2inst1" user="db2inst1"/>
 <jdbcDriver id="DB2_Universal_JDBC_Driver_Provider" javax.sql.DataSource="com.ibm.db2.jcc.DB2ConnectionPoolDataSource">
         <library>
 <!-- <file name="${DB2UNIVERSAL_JDBC_DRIVER_PATH}/db2jcc4.jar"/> -->
